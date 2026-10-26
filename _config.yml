@@ -1,0 +1,7 @@
+title: Pilo
+description: Tu copiloto del auto
+lang: es
+theme: minima
+header_pages:
+  - privacidad.md
+  - contacto.md
