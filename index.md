@@ -14,4 +14,4 @@ encontrar dónde estacionaste. Todo queda en tu teléfono, sin cuentas ni public
   cada rueda.
 - **Tus datos son tuyos:** funciona sin conexión, con backup en un archivo o en tu propio Google Drive.
 
-[Política de privacidad](privacidad/) · [Contacto](contacto/)
+[Política de privacidad](privacidad/) · [Condiciones del servicio](condiciones/) · [Contacto](contacto/)

@@ -4,4 +4,5 @@ lang: es
 theme: minima
 header_pages:
   - privacidad.md
+  - condiciones.md
   - contacto.md
