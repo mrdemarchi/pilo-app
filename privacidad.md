@@ -4,7 +4,7 @@ title: Política de privacidad
 permalink: /privacidad/
 ---
 
-Última actualización: 26 de octubre de 2026
+Última actualización: 5 de noviembre de 2026
 
 Pilo es una app para llevar el mantenimiento, los gastos, los documentos y el estacionamiento de tu auto. Esta
 política explica qué datos usa y qué hace con ellos.
@@ -23,7 +23,7 @@ política explica qué datos usa y qué hace con ellos.
 | Autos, kilometraje, services, gastos, documentos y neumáticos que cargás | Mostrar tu plan, avisos y resúmenes | Solo en el teléfono |
 | Ubicación | Guardar dónde estacionaste, mostrar la distancia y grabar el recorrido a pie cuando lo pedís | Solo en el teléfono. No usamos la ubicación en segundo plano |
 | Cámara y fotos | Leer la cédula, el tablero o un comprobante. El texto se reconoce en el teléfono | La foto no se sube a ningún lado |
-| Bluetooth (nombre y dirección del dispositivo del auto que elijas) | Avisarte que guardes el estacionamiento cuando te desconectás del auto | Solo en el teléfono |
+| Bluetooth (nombre y dirección del dispositivo del auto que elijas) | Avisarte que guardes el estacionamiento cuando te desconectás del auto, y dar por retirado el auto cuando te volvés a conectar | Solo en el teléfono |
 | Registro de diagnóstico (errores de la app) | Ayudar a resolver fallas, si decidís enviarlo | En el teléfono hasta que lo compartas vos. No incluye datos de tus autos |
 
 ## Servicios de terceros
